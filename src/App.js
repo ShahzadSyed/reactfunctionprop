@@ -17,6 +17,10 @@ function App() {
       <hr/>
       <h1>Wednesday</h1>
       <Dinner dishName="Chicken Biryani" meat="Cold drink"/>
+
+      <hr/>
+      <h1>Thursday</h1>
+      <Dinner dishName="Koyla Karhai" meat="Cold drink"/>
      
     </div>
   );
